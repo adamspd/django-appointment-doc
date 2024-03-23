@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="dd" name="Django-Appointment Documentation"
+                  start-page="overview.md">
+
+    <toc-element topic="overview.md"/>
+    <toc-element topic="client-side-features.md"/>
+    <toc-element topic="starter.md"/>
+    <toc-element topic="models.md"/>
+</instance-profile>
