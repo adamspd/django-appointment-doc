@@ -2,13 +2,10 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
-    <build-profile instance="hi">
-        <variables>
-            <noindex-content>false</noindex-content>
-            <offline-docs>false</offline-docs>
-        </variables>
-    </build-profile>
+    <variables>
+        <custom-favicons>favicon.ico</custom-favicons>
+        <header-logo>logo.png</header-logo>
+    </variables>
     <build-profile instance="dd">
         <variables>
             <offline-docs>false</offline-docs>
