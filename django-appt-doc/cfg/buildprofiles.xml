@@ -5,6 +5,10 @@
     <variables>
         <custom-favicons>favicon.ico</custom-favicons>
         <header-logo>logo.png</header-logo>
+        <product-web-url>https://github.com/adamspd/django-appointment</product-web-url>
+        <download-title>Get django-appointment</download-title>
+        <download-page>https://pypi.org/project/django-appointment/</download-page>
+        <showDownloadButton>true</showDownloadButton>
     </variables>
     <build-profile instance="dd">
         <variables>
@@ -12,5 +16,11 @@
             <noindex-content>false</noindex-content>
         </variables>
     </build-profile>
+    <footer>
+        <link href="https://adamspierredavid.com/blog/">Blog</link>
+        <link href="https://django-appt.adamspierredavid.com/terms-and-conditions/">Terms &amp; Condition</link>
+        <copyright>Adams Pierre David ©2024</copyright>
+
+    </footer>
 
 </buildprofiles>
