@@ -1,7 +1,7 @@
 # Overview
 
 > **Warning**: Note that this documentation is still under construction, thus not complete.
-{style="warning"}
+> {style="warning"}
 
 [![Python compatible version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/adamspd/django-appointment/main/python_compatible.json)](https://github.com/adamspd/django-appointment/blob/main/compatibility_matrix.md)
 [![Current Release Version](https://img.shields.io/github/release/adamspd/django-appointment.svg?style=flat-square&logo=github)](https://github.com/adamspd/django-appointment/releases)
@@ -29,3 +29,8 @@ The idea of django-appointment came from a real need: a more efficient way to ha
 (doctor/patient appointment, appointment module for clinic etc...) or not flexible enough, this project was created to
 fill that gap, aiming to be a generic, simple, and adaptable option for anyone needing to integrate appointment
 scheduling into their Django project.
+
+## Testing
+
+I created a live demo to showcase the package's features. You can access
+it [here](https://django-appt.adamspierredavid.com/).
