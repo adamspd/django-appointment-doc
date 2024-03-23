@@ -1,6 +1,6 @@
 # Overview
 
-> **Warning**: This documentation is still under construction.
+> **Warning**: Note that this documentation is still under construction, thus not complete.
 {style="warning"}
 
 [![Python compatible version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/adamspd/django-appointment/main/python_compatible.json)](https://github.com/adamspd/django-appointment/blob/main/compatibility_matrix.md)
