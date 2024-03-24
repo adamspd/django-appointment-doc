@@ -1,4 +1,4 @@
-# Client-side Features ✨
+# Client-side Features
 
 ## Features
 
