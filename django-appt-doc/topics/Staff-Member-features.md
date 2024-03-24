@@ -2,7 +2,7 @@
 
 ## Staff Member Features
 
-Upon logging in as a staff member, the default dashboard view presents a calendar, showcasing the current month and all
+Upon loggin in as a staff member, the default dashboard view presents a calendar, showcasing the current month and all
 appointments scheduled for that month for the staff member.
 
 ![staff_member_default_dashboard.png](staff_member_default_dashboard.png){ height=380 }{border-effect=line}
