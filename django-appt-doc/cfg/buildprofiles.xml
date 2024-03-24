@@ -18,9 +18,8 @@
         </variables>
     </build-profile>
     <footer>
-        <link href="https://adamspierredavid.com/blog/">Blog</link>
         <copyright>Adams Pierre David ©2024</copyright>
-
+        <link href="https://adamspierredavid.com/blog/">Blog</link>
     </footer>
 
 </buildprofiles>
