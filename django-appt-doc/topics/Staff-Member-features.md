@@ -37,3 +37,7 @@ In addition to the features mentioned above, the admin dashboard offers an overv
 respective appointments for the current month.
 
 ![admin_default_dashboard.png](admin_default_dashboard.png){ height=380 }{border-effect=line}
+
+He can also create new staff members, and delete staff members as needed.
+
+![admin_profile_list.png](admin_profile_list.png){ height=380 }{border-effect=line}
