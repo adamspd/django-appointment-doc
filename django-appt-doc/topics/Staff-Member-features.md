@@ -13,7 +13,7 @@ By clicking on a specific appointment, the staff member can view the most critic
 
 The "Edit" button allows the staff member to modify certain details about the appointment:
 
-![sm_edit_default_info.png](sm_edit_default_info.png){ height=380 }{border-effect=line}
+![sm_appointment_edit_default_info.png](sm_appointment_edit_default_info.png){ height=380 }{border-effect=line}
 
 Selecting "Go" displays all information related to that appointment:
 
